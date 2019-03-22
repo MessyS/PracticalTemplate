@@ -19,10 +19,15 @@
 
 #### 组件展示
 >loading动画
+
 ![Alt text](readmePhotos/loading.gif)
+
 >选项打开关闭动画
+
 ![Alt text](readmePhotos/sF.gif)
+
 >导航栏
+
 ![Alt text](readmePhotos/1553264303494.png)
 
 #### 最后
