@@ -1,4 +1,4 @@
-## README
+﻿## README
 
 ### 简介
 **本仓库启动日期：**
@@ -19,14 +19,17 @@
 >loading动画
 
 详细教程地址：待更新...
+
 ![Alt text](readmePhotos/loading.gif)
 >选项打开关闭动画
 
 详细教程地址：[https://www.messys.top/detail/18](https://www.messys.top/detail/18)
+
 ![Alt text](readmePhotos/sF.gif)
 >导航栏
 
 详细教程地址：待更新...
+
 ![Alt text](readmePhotos/20190323135747823.png)
 ![Alt text](readmePhotos/G11IF.gif)![Alt text](readmePhotos/GIF.gif)
 
