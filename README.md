@@ -13,22 +13,22 @@
 
 **其余信息注释：**
 * 后面应该会加入一小部分的css3的教程，敬请期待！
-* 更多精彩效果，敬请探索我的小站[www.messys.top](www.messys.top)
+* 更多精彩效果，敬请探索我的小站[www.messys.top](https://www.messys.top)
 
 ### 组件展示
 >loading动画
 
 详细教程地址：待更新...
-![Alt text](./loading.gif)
+![Alt text](readmePhotos/loading.gif)
 >选项打开关闭动画
 
 详细教程地址：[https://www.messys.top/detail/18](https://www.messys.top/detail/18)
-![Alt text](./sF.gif)
+![Alt text](readmePhotos/sF.gif)
 >导航栏
 
 详细教程地址：待更新...
-![Alt text](./20190323135747823.png)
-![Alt text](./G11IF.gif)![Alt text](./GIF.gif)
+![Alt text](readmePhotos/20190323135747823.png)
+![Alt text](readmePhotos/G11IF.gif)![Alt text](readmePhotos/GIF.gif)
 
 
 ### 最后
